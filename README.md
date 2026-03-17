@@ -1,4 +1,5 @@
 <img width="839" height="504" alt="Screenshot 2026-03-17 115652" src="https://github.com/user-attachments/assets/907f45c7-85e2-4f2b-b29b-c363dff9b516" />
+
 # Apple Mobile Applications Analysis
 
 This project presents a comprehensive data analysis and visualization dashboard focused on Apple mobile applications. The analysis provides insights into app performance, pricing, developer contributions, and user reviews to help better understand the Apple App Store ecosystem.
